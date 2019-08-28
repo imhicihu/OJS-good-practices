@@ -4,13 +4,13 @@
 
 # RATIONALE #
 
-* 
+* A way of checklist and good practices steps on future installations of this platform for a plethora of journals, with some goals: time-saving strategies, shareable across disciplines and colleagues, concise in the procedures.
 * This repo is a living document that will grow and adapt over time
 
 ### What is this repository for? ###
 
 * Quick summary
-    - 
+    - Procedures and time-saving steps in the installation of OJS platform
 * Version 1.01
 
 ### How do I get set up? ###
