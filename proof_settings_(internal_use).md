@@ -8,7 +8,7 @@
 * Unicode (UTF-8)
 * Unicode (UTF-8)
 * Unicode (UTF-8)
-* /Applications/MAMP/files
+* `/Applications/MAMP/files`
 * [MySQL]
 * localhost
 * proof
