@@ -6,7 +6,7 @@
 
 * A way of checklist and good practices steps on future installations of this platform for a plethora of journals, with some goals: time-saving strategies, shareable across disciplines and colleagues, concise in the procedures.
 * This repo is a living document that will grow and adapt over time
-![server.png](https://bitbucket.org/repo/nk7jA86/images/2395517672-virtual_server.png)
+![server.png](https://bitbucket.org/repo/nk7jA86/images/1009246129-virtual_server.png)
 
 ### What is this repository for? ###
 
