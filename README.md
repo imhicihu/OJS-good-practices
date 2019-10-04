@@ -6,6 +6,7 @@
 
 * A way of checklist and good practices steps on future installations of this platform for a plethora of journals, with some goals: time-saving strategies, shareable across disciplines and colleagues, concise in the procedures.
 * This repo is a living document that will grow and adapt over time
+![server.png](https://bitbucket.org/repo/nk7jA86/images/2395517672-virtual_server.png)
 
 ### What is this repository for? ###
 
@@ -16,17 +17,17 @@
 ### How do I get set up? ###
 
 * Summary of set up
-    - 
+    - Setup consists a virtual server to handle formatting the journal's template ([less](http://lesscss.org/), with a focus in the scalability across time)
 * Configuration
-    - 
+    - _In progress_
 * Dependencies
-    - 
+    - _In progress_
 * Database configuration
-    - 
+    - _In progress_
 * How to run tests
-    - 
+    - _In progress_
 * Deployment instructions
-    - 
+    - _In progress_
 
 ### Source ###
 
