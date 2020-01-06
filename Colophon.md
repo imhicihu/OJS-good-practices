@@ -18,6 +18,8 @@
           - [QuickSubmit plugin](https://github.com/pkp/quickSubmit)
      - File allowance (inside MacOSX)
           - [BatchMod](https://www.lagentesoft.com/batchmod/)
+     - Link checker
+          - [Excel Parser processor](https://github.com/btargac/excel-parser-processor): recursively test links
      - Word processor
           - [Bean](http://www.bean-osx.com/Bean.html): word processor for MacOSX
      - Virtual environment
