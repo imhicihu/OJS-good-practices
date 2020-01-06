@@ -18,6 +18,8 @@
           - [QuickSubmit plugin](https://github.com/pkp/quickSubmit)
      - File allowance (inside MacOSX)
           - [BatchMod](https://www.lagentesoft.com/batchmod/)
+     - Digital preservation
+          - [Web Archiving Integration Layer (WAIL)](https://machawk1.github.io/wail/)
      - Link checker
           - [Excel Parser processor](https://github.com/btargac/excel-parser-processor): recursively test links
      - Word processor
