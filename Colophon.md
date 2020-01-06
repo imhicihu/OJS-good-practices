@@ -75,6 +75,7 @@
           - [Google Fonts](https://fonts.google.com/)
           - [Font Face observer](https://fontfaceobserver.com/): widow paragraph/font protection - font webfont loader 
           - [Font Testing Page](https://github.com/impallari/Font-Testing-Page/)
+          - [ttfautohint](https://www.freetype.org/ttfautohint/): 
           - [Google Noto](https://www.google.com/get/noto/)        
     - Installation/uninstallation of software:
           - [Munki](https://www.munki.org/munki/): installation/uninstallation automated of MacOSX software
