@@ -7,4 +7,4 @@
 * https://forum.pkp.sfu.ca/t/adding-page-numbers-in-the-issue-page/29980/3  #customizations
 * https://discussions.apple.com/docs/DOC-11238 #installation #macOSX
 * https://discussions.apple.com/docs/DOC-3083  #installation #macOSX
-* 
+* https://visualsitemaps.com/  visual sitemaps
