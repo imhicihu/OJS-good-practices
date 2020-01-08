@@ -104,25 +104,26 @@
        - [LICEcap](https://www.cockos.com/licecap/): animated screen captures
 
 * Online tools
-     - [Robots](http://www.robotstxt.org/wc/norobots.html) (SEO et *alia*)
+     - Typography
+        - [Font style matcher](https://meowni.ca/font-style-matcher/): webfont style matcher
      - User suggestions
         - [Imhicihu's Uservoice](https://imhicihu.uservoice.com/)
-     - [Can I use](https://caniuse.com): provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
-     - [Screenfly](http://quirktools.com/screenfly/) (Test your website at different screen resolutions)
-     - [Placeholder](https://placeholder.com/): image disposal
-     - [GitHub & BitBucket HTML Preview](https://htmlpreview.github.io/)
+     - Tests browsers
+          - [Can I use](https://caniuse.com): provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
+          - [Screenfly](http://quirktools.com/screenfly/) (Test your website at different screen resolutions)
+          - [GitHub & BitBucket HTML Preview](https://htmlpreview.github.io/)
+          - [Google Lighthouse](https://github.com/GoogleChrome/Lighthouse): analyzes web apps and web pages, collecting modern performance metrics and insights on developer best practices.
+     - Graphics
+          - [Placeholder](https://placeholder.com/): image disposal
+          - [Base64](https://www.base64encode.org/): Graphics & code encoders and decoders
      - Icons:
           - [Favicon checker](https://realfavicongenerator.net/): checkin' your favicon
           - [Favicon creator](https://favicon.io/): creation from a plethora of modes
           - [Iconvericons](https://iconverticons.com/): convert icons to meet system criteria according every major operating system
-     - [Base64](https://www.base64encode.org/): Graphics & code encoders and decoders
-     - [CDNJS](https://cdnjs.com/): repository, searcher of web libraries
-     - [WeTransfer](https://wetransfer.com/): moving of digital assets between parties
-     - [Word counter](https://wordcounttools.com/):
-     - [Less to SCSS](http://less2scss.awk5.com/): edition of `.css` type files
-     - [Libraries.io](https://libraries.io/): searcher of open-source projects
-     - [Lighthouse](https://github.com/GoogleChrome/Lighthouse): analyzes web apps and web pages, collecting modern performance metrics and insights on developer best practices.
-     - [Google Analytics (query explorer)](https://ga-dev-tools.appspot.com/query-explorer/)
+     - Digital transfers
+          - [WeTransfer](https://wetransfer.com/): moving of digital assets between parties
+     - Analytics
+          - [Google Analytics (query explorer)](https://ga-dev-tools.appspot.com/query-explorer/)
      - Accesibility tests
           - [Wave](http://wave.webaim.org/)
           - [Aria](https://developers.google.com/web/fundamentals/accessibility/semantics-aria/?hl=es)
@@ -133,9 +134,14 @@
           - [HTTP vs HTTPS](https://www.httpvshttps.com/)
      - Plugins (curated and discriminated by topics)
           - [Awesome design plugins](https://flawlessapp.io/designplugins)
+     - [Word counter](https://wordcounttools.com/):
+     - [Less to SCSS](http://less2scss.awk5.com/): edition of `.css` type files
+     - [Robots](http://www.robotstxt.org/wc/norobots.html): SEO et *alia*
 
 * Documentation
      - [Developer certificate](https://developercertificate.org/)
+     - [Libraries.io](https://libraries.io/): searcher of open-source projects
+     - [CDNJS](https://cdnjs.com/): repository, searcher of web libraries
      
 ## Legal ##
 
