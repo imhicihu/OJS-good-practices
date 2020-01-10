@@ -7,4 +7,5 @@
 * https://forum.pkp.sfu.ca/t/adding-page-numbers-in-the-issue-page/29980/3  #customizations
 * https://discussions.apple.com/docs/DOC-11238 #installation #macOSX
 * https://discussions.apple.com/docs/DOC-3083  #installation #macOSX
+* https://stackoverflow.com/questions/12584762/mysql-connect-no-such-file-or-directory #installation #missing_data_misconfiguration
 * https://visualsitemaps.com/  visual sitemaps
