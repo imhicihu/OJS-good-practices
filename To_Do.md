@@ -9,3 +9,4 @@
 * https://discussions.apple.com/docs/DOC-3083  #installation #macOSX
 * https://stackoverflow.com/questions/12584762/mysql-connect-no-such-file-or-directory #installation #missing_data_misconfiguration
 * https://visualsitemaps.com/  visual sitemaps
+* https://24ways.org/2013/coding-towards-accessibility/  #accessibility
