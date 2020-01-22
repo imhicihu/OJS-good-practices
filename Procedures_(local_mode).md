@@ -1,6 +1,5 @@
 * [Download](https://www.mamp.info/en/mamp-pro/?m=1549969765&) and install MAMP Pro on your mac
 * [Download](https://pkp.sfu.ca/ojs/ojs_download/) OJS from the [PKP](https://pkp.sfu.ca/ojs/) website
-* Copy the downloaded digital asset
 * MAMP will create two main folders (`MAMP` & `MAMP PRO`) inside the MacOSX'S `Applications` folder
 * Go to `MAMP` folder
 * Go to `htdocs` folder
