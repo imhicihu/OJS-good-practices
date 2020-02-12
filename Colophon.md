@@ -134,9 +134,12 @@
           - [HTTP vs HTTPS](https://www.httpvshttps.com/)
      - Plugins (curated and discriminated by topics)
           - [Awesome design plugins](https://flawlessapp.io/designplugins)
-     - [Word counter](https://wordcounttools.com/):
-     - [Less to SCSS](http://less2scss.awk5.com/): edition of `.css` type files
-     - [Robots](http://www.robotstxt.org/wc/norobots.html): SEO et *alia*
+     - Markup validator
+          - [Markup Validation Service](https://validator.w3.org/#validate_by_input)
+     - Miscellaneous
+          - [Word counter](https://wordcounttools.com/):
+          - [Less to SCSS](http://less2scss.awk5.com/): edition of `.css` type files
+          - [Robots](http://www.robotstxt.org/wc/norobots.html): SEO et *alia*
 
 * Documentation
      - [Developer certificate](https://developercertificate.org/)
