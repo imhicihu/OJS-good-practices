@@ -2,6 +2,7 @@
      - Local server environment on MacOSX
           - [Mamp](https://www.mamp.info)
           - [httpster](https://github.com/SimbCo/httpster)
+          - [Xampp](https://www.apachefriends.org/es/index.html)
      - OJS
           - [Open Journal Systems](https://pkp.sfu.ca/ojs/)
      - OJS plugins
