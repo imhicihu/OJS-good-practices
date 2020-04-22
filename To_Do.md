@@ -11,3 +11,4 @@
 * https://visualsitemaps.com/  visual sitemaps
 * https://24ways.org/2013/coding-towards-accessibility/  #accessibility
 * https://24ways.org/search/?q=accessibility #accessibility
+* [A database error has occurred: No such file or directory](http://wayback.archive-it.org/7100/20160827211422/https://pkp.sfu.ca/support/forum/viewtopic.php?f=8&t=11355) #installation #error #database
