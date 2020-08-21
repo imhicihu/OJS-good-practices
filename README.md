@@ -18,16 +18,11 @@
 
 * Summary of set up
     - Setup consists a virtual server to handle formatting the journal's template ([less](http://lesscss.org/), with a focus in the scalability across time)
-* Configuration
-    - _In progress_
-* Dependencies
-    - _In progress_
+
 * Database configuration
-    - _In progress_
-* How to run tests
-    - _In progress_
+    - Check our [checklist](https://bitbucket.org/imhicihu/ojs-good-practices/src/master/Procedures_(local_mode).md) 
 * Deployment instructions
-    - _In progress_
+    - Verify our [procedures](https://bitbucket.org/imhicihu/ojs-good-practices/src/master/Procedures_(local_mode).md)
 
 ### Source ###
 
