@@ -6,6 +6,6 @@
 * Create a folder with the name of your journal: _ie._ Ecology
 * Paste the downloaded asset (from OJS website) inside this folder
 * Decompress it. 
-* ![MAMP.png](https://bitbucket.org/repo/nk7jA86/images/4070281297-mamp.png)
+![MAMP.png](https://bitbucket.org/repo/nk7jA86/images/4070281297-mamp.png)
 * Choose `config.inc.php` and edit it
-* on line 32, change `"http://pkp.sfu.ca/ojs"` for `"http://localhost:8888/ecology"
+* on line 32, change `"http://pkp.sfu.ca/ojs"` for `"http://localhost:8888/ecology"`
