@@ -12,17 +12,16 @@
 
 * Quick summary
     - Procedures and time-saving steps in the installation of OJS platform
-* Version 1.01
-
+    - 
 ### How do I get set up? ###
 
 * Summary of set up
     - Setup consists a virtual server to handle formatting the journal's template ([less](http://lesscss.org/), with a focus in the scalability across time)
 
 * Database configuration
-    - Check our [checklist](https://bitbucket.org/imhicihu/ojs-good-practices/src/master/Procedures_(local_mode).md) 
+    - Check our [checklist](Procedures_(local_mode).md) 
 * Deployment instructions
-    - Verify our [procedures](https://bitbucket.org/imhicihu/ojs-good-practices/src/master/Procedures_(local_mode).md)
+    - Verify our [procedures](Procedures_(local_mode).md)
 
 ### Source ###
 
@@ -45,12 +44,10 @@
 
 * Repo owner or admin
     - Contact `imhicihu` at `gmail` dot `com`
-* Other community or team contact
-    - Contact is _enable_ on the [board](https://bitbucket.org/imhicihu/ojs-good-practices/addon/trello/trello-board) of this repo. (You need a [Trello](https://trello.com/) account)
 
 ### Code of Conduct
 
-* Please, check our [Code of Conduct](https://bitbucket.org/imhicihu/ojs-good-practices/src/master/code_of_conduct.md)
+* Please, check our [Code of Conduct](code_of_conduct.md)
 
 ### Legal ###
 
