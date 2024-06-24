@@ -38,12 +38,15 @@
 ### Related repositories ###
 
 * Some repositories linked with this project:
-     - [Open Journal System (OJS) project](https://bitbucket.org/imhicihu/open-journal-system-ojs-project/src/master/)
+     - [Open Journal System (OJS) project](https://bitbucket.org/imhicihu/open-journal-system-ojs-project/)
      
 ### Who do I talk to? ###
 
 * Repo owner or admin
     - Contact `imhicihu` at `gmail` dot `com`
+
+### Disclaimer
+* This repository is for academic purposes only. It is intended for educational and research use, and should not be used for any commercial purposes
 
 ### Code of Conduct
 
