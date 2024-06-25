@@ -1,6 +1,6 @@
-![stability-work_in_progress](/images/stability_work_in_progress.png)
-![internaluse-green](/images/internal_use_stable.png)
-![issues-open](/images/issues_open.png)
+<p align="center">
+  <img src="https://github.com/imhicihu/Enlaces/blob/main/images/header_bw.jpg?raw=true" alt="Logotipo del repositorio OJS-good-practices"/>
+</p>
 
 # RATIONALE #
 
