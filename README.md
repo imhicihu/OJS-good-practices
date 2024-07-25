@@ -12,12 +12,11 @@
 
 * Quick summary
     - Procedures and time-saving steps in the installation of OJS platform
-    - 
+
 ### How do I get set up? ###
 
 * Summary of set up
     - Setup consists a virtual server to handle formatting the journal's template ([less](http://lesscss.org/), with a focus in the scalability across time)
-
 * Database configuration
     - Check our [checklist](Procedures_(local_mode).md) 
 * Deployment instructions
@@ -29,16 +28,7 @@
 
 ### Issues ###
 
-* Check them on [here](https://bitbucket.org/imhicihu/ojs-good-practices/issues)
-
-### Changelog ###
-
-* Please check the [Commits](https://bitbucket.org/imhicihu/ojs-good-practices/commits/) section for the current status
-
-### Related repositories ###
-
-* Some repositories linked with this project:
-     - [Open Journal System (OJS) project](https://bitbucket.org/imhicihu/open-journal-system-ojs-project/)
+* Check them on [here](https://github.com/imhicihu/OJS-good-practices/issues)
      
 ### Who do I talk to? ###
 
