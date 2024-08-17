@@ -8,8 +8,3 @@
 ### Accesibility
 * https://24ways.org/2013/coding-towards-accessibility/  #accessibility
 * https://24ways.org/search/?q=accessibility #accessibility
-### Miscellaneous
-* https://forum.pkp.sfu.ca/t/adding-page-numbers-in-the-issue-page/29980/3  #customizations
-* https://pkp.sfu.ca/ojs/docs/userguide/2.3.1/systemAdministrationBackup.html #backup
-* https://forum.pkp.sfu.ca/t/google-scholar-is-not-indexing-ojs-documents/603/3  #google_scholar
-* https://visualsitemaps.com/  visual sitemaps
