@@ -5,5 +5,4 @@
 * Prefer `'` over `"`
 * ES6 syntax when possible
 * Use semicolons; beyond [linter](https://en.wikipedia.org/wiki/Lint_(software))
-* Trailing commas `,`
 * Avoid abbr wrds
